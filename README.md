@@ -17,7 +17,8 @@ Join our Discord to play with others: https://discord.gg/dccRRY8dcR
 
 ---
 # Installation
-- Download the zip using the download link on the [releases](https://github.com/Devs-Us/Cursed-Among-Us/releases/latest) on this GitHub, then extract the Cursed Among Us zip.
+- not
+-  Download the zip using the download link on the [releases](https://github.com/Devs-Us/Cursed-Among-Us/releases/latest) on this GitHub, then extract the Cursed Among Us zip.
 - Go to the location of your Among Us folder and copy the folder to an easily accessible location (such as the documents folder).
 	- If you bought Among Us through Steam, open Steam and locate Among Us in your library, select properties then local files.
 	- If you bought Among Us through Epic Games, open file explorer, navigate to Program Files, find Among Us.
